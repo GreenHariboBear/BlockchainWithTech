@@ -1,0 +1,23 @@
+{
+  "name": "toepassing",
+  "version": "1.0.0",
+  "description": "First Prototype for MWF_Blockchain Integration Project",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sona@happie",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "fabric-client": "^1.1.0-alpha",
+    "flash": "^1.1.0",
+    "grpc": "^1.8.4",
+    "hfc": "^0.6.5",
+    "util": "^0.10.3"
+  }
+}
